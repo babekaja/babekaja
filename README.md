@@ -8,7 +8,7 @@
 ---
 
 ## 📝 À propos de moi
-Originaire de Lubumbashi (RDC), je mets ma double expertise Kotlin & Python au service de solutions backend, mobiles et data.  
+Originaire de Bukavu (RDC), je mets ma double expertise Kotlin & Python au service de solutions backend, mobiles et data.  
 Passionné par l’apprentissage continu, j’aime transmettre mon savoir (mentorat, conférences) autant que coder des architectures robustes (MVVM, Clean Architecture).
 
 ---
@@ -24,8 +24,8 @@ Passionné par l’apprentissage continu, j’aime transmettre mon savoir (mento
 ---
 
 ## 🏫 Formation
-- B.Sc. Informatique – Université de Lubumbashi  
-- MOOCs & Certifs : Kotlin, Data Science & ML (Coursera / Udemy)  
+- B.Sc. Informatique – Université de Bukavu  
+
 
 ---
 
